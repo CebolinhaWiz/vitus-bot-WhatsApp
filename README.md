@@ -64,7 +64,7 @@ Perfeito para:
 
 ---
 
-# 📜 **LISTA DE COMANDOS (Organizado em Badges)**
+# 📜 **LISTA DE COMANDOS**
 
 ---
 
