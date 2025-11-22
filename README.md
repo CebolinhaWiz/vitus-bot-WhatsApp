@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=9D00FF&size=40&center=true&vCenter=true&width=1000&lines=🔥+Vitus+Bot+Premium+🔥;💜+Free+Fire+Automation+System+💜;⚡+Gestão+Completa+de+Guildas+⚡;🚀+WhatsApp+Bot+Profissional+🚀">
 </p>
-
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="140">
 </p>
@@ -15,13 +14,17 @@
 
 # 🌐 **Links Oficiais**
 
-📱 **WhatsApp:**
-👉 [https://wa.me/5511973135294](https://wa.me/5511973135294)
-
-🌐 **Site:**
-👉 [https://vitus.klzin.store](https://vitus.klzin.store)
+<p align="center">
+  <a href="https://wa.me/5511973135294">
+    <img src="https://img.shields.io/badge/WhatsApp-Contato-%2321C25E?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+  <a href="https://vitus.klzin.store">
+    <img src="https://img.shields.io/badge/Site%20Oficial-Vitus-%239D00FF?style=for-the-badge&logo=internet-explorer&logoColor=white">
+  </a>
+</p>
 
 ---
+
 <p align="center">
 <img src="https://img.shields.io/badge/VitusBot-Premium-%239D00FF?style=for-the-badge">
 <img src="https://img.shields.io/badge/WhatsApp-Automation-%23B300FF?style=for-the-badge">
@@ -33,76 +36,87 @@
 
 # 💜 **O que é o Vitus Bot?**
 
-O **Vitus Bot** é um sistema avançado de automação para **grupos de Free Fire**, oferecendo administração completa, ferramentas únicas para guildas, rankings automáticos, consulta de IDs, organização de guerra, honor points e muito mais.
+O **Vitus Bot** é um sistema avançado de automação criado para **grupos e guildas de Free Fire**, oferecendo:
 
-Indicado para:
+✔ Administração profissional
+✔ Rankings automáticos
+✔ Consultas completas de ID
+✔ Controle total da guilda
+✔ Blacklist integrada
+✔ Funções de diversão
 
-✔ Guildas profissionais
-✔ Grupos competitivos
-✔ Gerenciamento de membros
-✔ Comunidades Free Fire
+Perfeito para:
+🎮 Guildas profissionais
+🔥 Times competitivos
+👥 Comunidades de Free Fire
 
 ---
 
 # ⚙️ **Funções Principais**
 
-* 🔧 Administração avançada (mutar, banir, promover, etc.)
-* 🎮 Comandos exclusivos para Free Fire
-* 📊 Rankings BR / CS / Geral
-* 🔍 Consultas completas de ID
-* 🛡️ Sistema de blacklist integrado
-* 👥 Controle total da guilda
-* 🎉 Funções de diversão
-* ⚡ Resposta ultra rápida
+* 🔧 Administração avançada
+* 🎮 Comandos exclusivos para FF
+* 📊 Ranking BR / CS / Geral
+* 🛡️ Blacklist inteligente
+* 🔍 Consulta de ID
+* 🎉 Comandos interativos
+* ⚡ Resposta imediata
 
 ---
 
-# 📜 **LISTA DE COMANDOS — VITUS BOT**
+# 📜 **LISTA DE COMANDOS (Organizado em Badges)**
 
 ---
 
 ## 🛠️ **Comandos Administrativos**
 
-🔹 **.apagar** — Apaga uma mensagem.
-🔹 **.ban** — Remove um número do grupo.
-🔹 **.desmutar** — Desmuta um membro.
-🔹 **.grupo** — Abre ou fecha o grupo.
-🔹 **.mutar** — Silencia um membro.
-🔹 **.promover** — Concede admin.
-🔹 **.rebaixar** — Remove admin.
-🔹 **.prefix** — Altera o prefixo do bot.
+<p>
+<img src="https://img.shields.io/badge/.apagar-Apagar%20mensagem-%239D00FF?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/.ban-Remover%20membro-%239D00FF?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/.desmutar-Desmutar%20membro-%239D00FF?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/.grupo-Abrir/Fechar%20grupo-%239D00FF?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/.mutar-Mutar%20membro-%239D00FF?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/.promover-Dar%20admin-%239D00FF?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/.rebaixar-Tirar%20admin-%239D00FF?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/.prefix-Alterar%20prefixo-%239D00FF?style=for-the-badge">
+</p>
 
 ---
 
 ## 🎮 **Comandos Free Fire**
 
-🔹 **.blackconsulta** — Consulta ID na blacklist.
-🔹 **.blackguild** — Checa blacklist de guildas.
-🔹 **.blacklist** — Verifica IDs citados.
-🔹 **.get** — Busca dados pelo ID.
-🔹 **.guildadd** — Adiciona membro na guilda.
-🔹 **.guildas** — Mostra suas guildas e membros.
-🔹 **.gvg** — Ranking da guerra semanal.
-🔹 **.honras** — Ranking de honra semanal.
-🔹 **.lista** — Lista completa da guilda.
-🔹 **.offs** — Mostra inativos.
-🔹 **.rank** — Ranking atualizado.
-🔹 **.ranktype** — Define o tipo de ranking.
-🔹 **.removeguild** — Remove membro da guilda.
-🔹 **.verificar** — Verifica membros da guilda.
-🔹 **.verificarwpp** — Verifica membros nos grupos.
+<p>
+<img src="https://img.shields.io/badge/.blackconsulta-Consultar%20ID%20na%20blacklist-%238200FF?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/.blackguild-Blacklist%20da%20guilda-%238200FF?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/.blacklist-Verificar%20IDs-%238200FF?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/.get-Buscar%20dados%20do%20ID-%238200FF?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/.guildadd-Adicionar%20membro-%238200FF?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/.guildas-Mostrar%20guildas-%238200FF?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/.gvg-Ranking%20de%20guerra-%238200FF?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/.honras-Honra%20semanal-%238200FF?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/.lista-Lista%20da%20guilda-%238200FF?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/.offs-Inativos-%238200FF?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/.rank-Ranking-%238200FF?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/.ranktype-Tipo%20de%20ranking-%238200FF?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/.removeguild-Remover%20da%20guilda-%238200FF?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/.verificar-Verificar%20membros-%238200FF?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/.verificarwpp-Verificar%20números-%238200FF?style=for-the-badge">
+</p>
 
 ---
 
 ## 🎉 **Comandos de Diversão**
 
-🔹 **.rs** — Roleta Russa.
-🔹 **.sorteio** — Sorteia um membro.
-🔹 **.sticker** — Cria figurinha.
-🔹 **.ping** — Teste de resposta.
-🔹 **.menu** — Exibe o menu completo.
+<p>
+<img src="https://img.shields.io/badge/.rs-Roleta%20Russa-%23B300FF?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/.sorteio-Sortear%20membro-%23B300FF?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/.sticker-Criar%20figurinha-%23B300FF?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/.ping-Testar%20resposta-%23B300FF?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/.menu-Menu%20completo-%23B300FF?style=for-the-badge">
+</p>
 
 ---
+
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="140">
 </p>
